@@ -3,12 +3,12 @@ This code is a console application for working with the contact book (Phone Book
 
 The user can choose one of several commands:
 
-0 - Exit
-1 - Add a contact
-2 - Pin output
-3 - Search
-4 - Yes
-5 - No
+0 - Exit;
+1 - Add a contact;
+2 - Pin output;
+3 - Search;
+4 - Yes;
+5 - No.
 
 When selecting the "Add Contact" command, the user must enter the name and phone number of the contact, which are checked using a regular expression. If the data is entered correctly, a new contact object is created and stored in the PhoneBook class object.
 
